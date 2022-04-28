@@ -1,6 +1,6 @@
 
-git config --global user.name "becomedevops"
-git config --global user.email "becomedevops99@gmail.com"
+git config --global user.name "nnaga696"
+git config --global user.email "nnaga696@gmail.com"
 git commit --amend --reset-author --no-edit
 
 changes made to config in master branch
